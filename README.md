@@ -7,3 +7,4 @@ Previously, my notes were mostly handwritten and lacked structure. This reposito
 Available Articles
 - [Reflections on the Pinball Loss Function in Quantile Regression](objective_functions/objective_functions.ipynb) (October 5, 2024)
 - [The Clopper-Pearson Binomial Confidence Interval](clopper_pearson/clopper_pearson.ipynb) (November 13, 2024)
+- [An Application of Chebyshev's Sum Inequality](inequalities/chebyshev_sum_unequality.ipynb) (May 5, 2025)
